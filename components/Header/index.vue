@@ -262,8 +262,8 @@ function selectRange(duration: Duration) {
         <h2 class="font-bold">Other actions</h2>
 
         <UButton
-          color="gray"
           size="sm"
+          color="gray"
           icon="i-heroicons-x-mark-20-solid"
           square
           padded
